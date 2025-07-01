@@ -15,6 +15,8 @@ The rise of LLMs has increased concerns over source tracing and copyright protec
 
 ## Environment Setup
 
+**Our end-to-end model is trained with single A6000 48G.**
+
 Install dependencies: python 3.9, pytorch 2.1, and other packages by
 ```bash
 pip install -r requirements.txt
